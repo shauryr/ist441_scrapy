@@ -1,0 +1,13 @@
+https://datascience.stackexchange.com/questions
+https://datascience.stackexchange.com/questions/88480/keras-engine-topolgy-import-node-equivalent-in-tensorflow-2-x
+https://datascience.stackexchange.com/questions/tagged/machine
+https://datascience.stackexchange.com/questions/tagged/nvidia
+https://datascience.stackexchange.com/questions/88481/machine-purchase-for-my-machine-learning-research-project
+https://datascience.stackexchange.com/questions/tagged/visualization
+https://datascience.stackexchange.com/questions/88482/why-is-my-cnn-activation-maximization-split-vertically
+https://datascience.stackexchange.com/questions/tagged/information-extraction
+https://datascience.stackexchange.com/questions/tagged/text-mining
+https://datascience.stackexchange.com/questions/88485/extracting-events-with-attributes-from-unstructured-text
+https://datascience.stackexchange.com/questions/tagged/optimization
+https://datascience.stackexchange.com/questions/88488/deep-learning-test-loss-curve-wont-go-down
+https://datascience.stackexchange.com/questions/tagged/image-preprocessing
